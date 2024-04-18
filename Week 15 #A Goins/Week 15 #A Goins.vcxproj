@@ -130,7 +130,7 @@
     <ClCompile Include="Week 15 #A Goins.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="character.h" />
+    <ClInclude Include="exceptions.h" />
     <ClInclude Include="goinsLib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

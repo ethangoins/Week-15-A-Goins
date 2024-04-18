@@ -23,7 +23,7 @@
     <ClInclude Include="goinsLib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="character.h">
+    <ClInclude Include="exceptions.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
